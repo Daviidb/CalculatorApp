@@ -117,7 +117,7 @@ namespace Bindings
 
                 List<double> liste = new List<double>();
 
-                while (double.TryParse(Console.ReadLine(), out double r) != false)
+                while (double.TryParse(Console.ReadLine(), out double r) != false) 
                 {
                     liste.Add(r);
                 }
