@@ -1,0 +1,14 @@
+﻿Calculator Menu
+(Tryk menupunkt eller 0 for at afslutte)
+Plus;Plus
+Minus;Minus
+Gange;Gange
+Dividere;Dividere
+Sum med Array;Sum
+Sum med List;Sum2
+Average med Array;Average
+Average med List;Average2
+Minimum med Array;Minimum
+Minimum med List;Minimum2
+Maximum med Array;Maximum
+Maximum med List;Maximum2

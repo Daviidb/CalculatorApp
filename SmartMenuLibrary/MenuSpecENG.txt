@@ -1,0 +1,10 @@
+﻿Calculator Menu
+(Press 1-9 or 0 to end)
+Addition;Plus
+Subtraction;Minus
+Multiplication;Gange
+Dividing;Dividere
+Sum;Sum
+Average;Average
+Minimum;Minimum
+Maximum;Maximum
